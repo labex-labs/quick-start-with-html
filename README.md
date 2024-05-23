@@ -9,10 +9,15 @@ This course will teach you the basics of HTML. We will begin by covering the bas
 
 ## Scenarios
 
-|   Index | Name                            | Difficulty   | URL                                                                  |
+|   Index | Name                            | Difficulty   | Practice                                                             |
 |---------|---------------------------------|--------------|----------------------------------------------------------------------|
 |       1 | 📖 Your First HTML Lab           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/92740'>Start Lab</a>  |
 |       2 | 📖 Header and Home Layout        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271712'>Start Lab</a> |
 |       3 | 📖 Showcase Pet Services Website | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271713'>Start Lab</a> |
 |       4 | 📖 Form and Footer Layout        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271711'>Start Lab</a> |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [HTML Free Tutorials](https://github.com/labex-labs/html-free-tutorials)
 
