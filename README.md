@@ -18,6 +18,7 @@ This course will teach you the basics of HTML. We will begin by covering the bas
 
 ## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [HTML Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [HTML Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 - 🔗 [HTML Free Tutorials](https://github.com/labex-labs/html-free-tutorials)
 
