@@ -1,6 +1,6 @@
 # Quick Start with HTML
 
-![Quick Start with HTML](https://cover-creator.labex.io/quick-start-with-html.png)
+![Quick Start with HTML](https://cover-creator.appbot.io/quick-start-with-html.png)
 
 This course will teach you the basics of HTML. We will begin by covering the basics of HTML with a small project, emphasizing 3 labs that will guide you through the process of creating a simple webpage.
 
