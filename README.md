@@ -1,6 +1,6 @@
 # Quick Start with HTML
 
-[![Quick Start with HTML](https://cover-creator.appbot.io/quick-start-with-html.png)](https://labex.io/courses/quick-start-with-html)
+[![Quick Start with HTML](https://cover-creator.labex.io/quick-start-with-html.png)](https://labex.io/courses/quick-start-with-html)
 
 [![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/quick-start-with-html)
 
@@ -15,7 +15,7 @@ LabEx is an interactive, hands-on learning platform dedicated to coding and tech
 
 ![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
 
-- A strict “Learn by Doing” approach with exclusive hands-on labs and no videos.
+- A strict "Learn by Doing" approach with exclusive hands-on labs and no videos.
 - Interactive online environments within the browser, with automated step-by-step checks.
 - A structured content organization with the Skill Tree based learning system.
 - A growing learning resource of 30 Skill Trees and over 6,000 Labs.
@@ -25,10 +25,10 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                           | Difficulty   | Practice                                                                                                                   |
-|---------|------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Your First HTML Lab                          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/html-your-first-html-lab-92740'>Start Lab</a>                          |
-|      02 | 📖 Header and Home Layout                       | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/html-header-and-home-layout-271712'>Start Lab</a>                      |
+|   Index | Name                                            | Difficulty   | Practice                                                                                                                   |
+|---------|-------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 Your First HTML Lab                          | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/html-your-first-html-lab-92740'>Start Lab</a>                          |
+|      02 | 📖 Header and Home Layout                       | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/html-header-and-home-layout-271712'>Start Lab</a>                      |
 |      03 | 📖 Showcase Pet Services Website                | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/html-showcase-pet-services-website-271713'>Start Lab</a>               |
 |      04 | 📖 Form and Footer Layout                       | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/html-form-and-footer-layout-271711'>Start Lab</a>                      |
 |      05 | 📖 Create HTML Paragraphs in Visual Studio Code | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/html-create-html-paragraphs-in-visual-studio-code-70813'>Start Lab</a> |
@@ -38,7 +38,7 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 |      09 | 📖 HTML Ordered List                            | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/html-html-ordered-list-70806'>Start Lab</a>                            |
 |      10 | 📖 HTML List Item                               | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/html-html-list-item-70788'>Start Lab</a>                               |
 |      11 | 📖 HTML Image Embedding                         | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/html-html-image-embedding-70777'>Start Lab</a>                         |
-|      12 | 📖 HTML Document Metadata                       | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/html-html-document-metadata-70765'>Start Lab</a>                       |
+|      12 | 📖 HTML Document Metadata                       | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/html-html-document-metadata-70765'>Start Lab</a>                       |
 |      13 | 📖 HTML Strong Importance                       | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/html-html-strong-importance-70843'>Start Lab</a>                       |
 |      14 | 📖 HTML Emphasized Text                         | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/html-html-emphasized-text-70749'>Start Lab</a>                         |
 |      15 | 📖 HTML Bold Text                               | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/html-html-bold-text-70706'>Start Lab</a>                               |
@@ -46,7 +46,7 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 |      17 | 📖 HTML Small Print                             | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/html-html-small-print-70835'>Start Lab</a>                             |
 |      18 | 📖 HTML Strikethrough Text                      | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/html-html-strikethrough-text-70841'>Start Lab</a>                      |
 |      19 | 📖 HTML Quoted Text Block                       | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/html-html-quoted-text-block-70714'>Start Lab</a>                       |
-|      20 | 📖 HTML Citation Formatting with `<cite>` Tag   | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/html-html-citation-formatting-with-cite-tag-70723'>Start Lab</a>       |
+|      20 | 📖 HTML Citation Formatting with <cite> Tag     | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/html-html-citation-formatting-with-cite-tag-70723'>Start Lab</a>       |
 |      21 | 📖 HTML Abbreviation Tag                        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/html-abbreviation-tag-70700'>Start Lab</a>                             |
 |      22 | 📖 HTML Time Representation                     | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/html-html-time-representation-70868'>Start Lab</a>                     |
 |      23 | 📖 HTML Computer Code                           | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/html-html-computer-code-70725'>Start Lab</a>                           |
